@@ -1,1 +1,2 @@
 print('Guru')
+print('Patel')
